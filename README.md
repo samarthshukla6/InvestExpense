@@ -96,7 +96,5 @@ Welcome to the **Expense Management Application** — your one-stop solution for
 
 ---
 
-#### 📹 **Description Video**  
-*Video Section Below*  
 
 
