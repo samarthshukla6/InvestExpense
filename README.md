@@ -14,7 +14,10 @@ Welcome to the **Expense Management Application** — your one-stop solution for
 - Simplifies managing finances across different accounts in a centralized dashboard.  
 
 #### 📸 **Screenshots**  
-![Multi-Profile Login](#)  
+
+<img width="1694" alt="Screenshot 2025-01-25 at 6 26 50 PM" src="https://github.com/user-attachments/assets/aef7d299-d2ce-4e6c-ba2d-8a4b5970b71e" />
+
+
 *A screenshot of the multi-profile login page showcasing different user accounts and seamless navigation.*  
 
 
@@ -29,11 +32,12 @@ Welcome to the **Expense Management Application** — your one-stop solution for
 - Encourages better budgeting habits, minimizes overspending, and enhances savings.  
 
 #### 📸 **Screenshots**  
-![Automated Monthly Planner](#)  
+
+<img width="1697" alt="Screenshot 2025-01-25 at 6 28 26 PM" src="https://github.com/user-attachments/assets/a9c9bdcc-7961-4cbc-97a7-37a2e4c45bee" />
+
+
 *An image showing the intuitive monthly planner and expense tracker interface.*  
 
-#### 📹 **Description Video**  
-*Video Section Below*  
 
 ---
 
@@ -45,11 +49,12 @@ Welcome to the **Expense Management Application** — your one-stop solution for
 - Empowers users with live market trends and personalized investment strategies.  
 
 #### 📸 **Screenshots**  
-![Stock Market Insights](#)  
+
+<img width="1692" alt="Screenshot 2025-01-25 at 6 27 35 PM" src="https://github.com/user-attachments/assets/7c68131d-ab77-4216-a447-1351f2af9911" />
+
 *Screenshot showing stock market trends, portfolio analytics, and recommendations.*  
 
-#### 📹 **Description Video**  
-*Video Section Below*  
+ 
 
 ---
 
@@ -91,11 +96,7 @@ Welcome to the **Expense Management Application** — your one-stop solution for
 
 ---
 
-## 📞 **Get Started Today**  
-Experience financial freedom and control like never before. 🌟  
+#### 📹 **Description Video**  
+*Video Section Below*  
 
----
 
-Let me know if you'd like any further refinements! 🚀
-
-https://github.com/user-attachments/assets/827dd4d8-75cf-4fab-9b52-b3f339627764
